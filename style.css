@@ -270,9 +270,14 @@ button:hover {
   .card-three {
     border-radius: 0px 15px 15px 0;
   }
+  
+   .card-two {
+    width: 25vw;
+  }
 
   .card-holder:nth-child(2) {
     height: 31rem;
+    width: 25vw;
     display: flex;
     justify-content: center;
     align-items: center;
